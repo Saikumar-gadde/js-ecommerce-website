@@ -1,0 +1,15 @@
+.show-and-hide{
+    display: none;
+}
+
+.password-container{
+    max-width: 50%;
+    position: relative;
+    margin: 10px auto;
+}
+
+.password-icons{
+    position: absolute;
+    top: 30%;
+    right: 0;
+}
